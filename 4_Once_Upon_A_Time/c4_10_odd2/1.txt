@@ -1,0 +1,11 @@
+(once)=(start)x
+
+xa=y
+xb=y
+xc=y
+
+ya=ax
+yb=bx
+yc=cx
+x=
+y=

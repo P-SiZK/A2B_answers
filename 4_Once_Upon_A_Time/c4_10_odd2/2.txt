@@ -1,0 +1,11 @@
+(once)=(start)x
+
+xxa=ax
+xxb=bx
+xxc=cx
+
+xa=xx
+xb=xx
+xc=xx
+
+x=

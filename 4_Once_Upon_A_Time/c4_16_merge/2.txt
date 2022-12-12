@@ -1,0 +1,12 @@
+(once)=(end)Ix
+
+aI=(start)a
+bI=(start)b
+
+ax=xa
+bx=xb
+,x=I,y
+
+y=(end)Ix
+
+,Ix=

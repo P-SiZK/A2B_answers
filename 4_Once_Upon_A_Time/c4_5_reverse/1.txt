@@ -1,0 +1,9 @@
+(once)=(start)x
+
+xa=(end)ya
+xb=(end)yb
+xc=(end)yc
+
+ay=(start)a
+by=(start)b
+cy=(start)c

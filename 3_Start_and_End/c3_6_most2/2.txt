@@ -1,0 +1,16 @@
+ba=ab
+cb=bc
+ca=ac
+
+bc=(start)x
+
+xa=(start)y
+
+ab=(start)y
+ac=(start)y
+
+x=y
+
+ya=(end)aa
+yb=(end)bb
+yc=(end)cc

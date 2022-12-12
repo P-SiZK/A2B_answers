@@ -1,0 +1,17 @@
+aaa=aa
+bbb=bb
+ccc=cc
+
+aa=x
+bb=x
+cc=x
+
+a=y
+b=y
+c=y
+
+yx=xy
+
+yy=(return)false
+y=(return)true
+=(return)false

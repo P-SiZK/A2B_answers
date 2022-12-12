@@ -1,0 +1,16 @@
+aA=
+bB=
+cC=
+
+(start)a=(end)A
+(start)b=(end)B
+(start)c=(end)C
+
+BA=AB
+CB=BC
+CA=AC
+
+AB=(return)false
+AC=(return)false
+BC=(return)false
+=(return)true

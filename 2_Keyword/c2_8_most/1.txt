@@ -1,0 +1,16 @@
+ba=ab
+cb=bc
+ca=ac
+
+bc=x
+bx=xb
+
+ax=
+
+ab=
+ac=
+x=
+
+aa=a
+bb=b
+cc=c

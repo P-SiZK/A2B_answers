@@ -1,0 +1,13 @@
+(once)=(end)axx
+
+xax=a
+xbx=b
+xcx=c
+
+xa=(end)x
+xb=(end)x
+xc=(end)x
+
+ax=(start)x
+bx=(start)x
+cx=(start)x

@@ -1,0 +1,13 @@
+axA=
+bxB=
+cxC=
+
+ax=(return)false
+bx=(return)false
+cx=(return)false
+
+(start)a=(end)xA
+(start)b=(end)xB
+(start)c=(end)xC
+
+=(return)true

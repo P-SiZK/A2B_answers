@@ -1,0 +1,9 @@
+(once)=(start)Ixx
+
+xa=(start)a
+xb=(start)b
+xc=(start)c
+
+Ia=(start)xx
+Ib=(start)xx
+Ic=(start)xx

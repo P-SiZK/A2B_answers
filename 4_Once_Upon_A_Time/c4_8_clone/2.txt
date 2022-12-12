@@ -1,0 +1,11 @@
+(once)=(start)xxx
+
+ya=(start)a
+yb=(start)b
+yc=(start)c
+
+xa=(end)aya
+xb=(end)byb
+xc=(end)cyc
+
+(once)=(start)yyy

@@ -1,0 +1,13 @@
+(once)=(start)yxx
+
+xa=(end)A
+xb=(end)B
+xc=(end)C
+
+ya=
+yb=
+yc=
+
+(end)A=(start)a
+(end)B=(start)b
+(end)C=(start)c

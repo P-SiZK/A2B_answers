@@ -1,0 +1,16 @@
+(end)a=ay
+(end)b=by
+(end)c=cy
+
+(start)a=yxa
+(start)b=yxb
+(start)c=yxc
+
+xa=(end)ay
+xb=(end)by
+xc=(end)cy
+
+aya=(return)true
+byb=(return)true
+cyc=(return)true
+=(return)false

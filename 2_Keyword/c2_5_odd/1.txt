@@ -1,0 +1,16 @@
+ba=ab
+cb=bc
+ca=ac
+
+aa=x
+bb=y
+cc=z
+
+xa=a
+yb=b
+zc=c
+
+x=(return)false
+y=(return)false
+z=(return)false
+=(return)true

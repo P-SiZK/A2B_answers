@@ -1,0 +1,7 @@
+(once)b=bx
+(once)x=(start)x
+xa=bx
+xb=bx
+xc=cx
+a=c
+x=

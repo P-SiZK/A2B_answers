@@ -1,0 +1,14 @@
+(once)=(end)x
+
+Ax=xA
+Bx=xB
+Cx=xC
+
+ax=(end)xA
+bx=(end)xB
+cx=(end)xC
+
+x=
+A=a
+B=b
+C=c

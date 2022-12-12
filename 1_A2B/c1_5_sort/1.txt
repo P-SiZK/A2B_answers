@@ -1,0 +1,3 @@
+ba=ab
+cb=bc
+ca=ac
